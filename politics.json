@@ -1,0 +1,154 @@
+{
+  "questions": [
+    {
+      "question": "Who is called the 'Father of the Nation' in Pakistan?",
+      "options": ["Liaquat Ali Khan", "Muhammad Ali Jinnah", "Zulfiqar Ali Bhutto", "Benazir Bhutto"],
+      "answer": 2,
+      "difficulty": "very easy"
+    },
+    {
+      "question": "Which political system gives power to the people directly?",
+      "options": ["Monarchy", "Democracy", "Oligarchy", "Dictatorship"],
+      "answer": 2,
+      "difficulty": "very easy"
+    },
+    {
+      "question": "Who was the first female Prime Minister of Pakistan?",
+      "options": ["Benazir Bhutto", "Fatima Jinnah", "Hina Rabbani Khar", "Asma Jahangir"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which international body has five permanent members in its Security Council?",
+      "options": ["UNESCO", "UN Security Council", "NATO", "G20"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which is the highest court in Pakistan?",
+      "options": ["High Court", "Supreme Court", "Federal Court", "District Court"],
+      "answer": 2,
+      "difficulty": "very easy"
+    },
+    {
+      "question": "What type of government does the UK have?",
+      "options": ["Presidential", "Federal", "Parliamentary Monarchy", "Dictatorship"],
+      "answer": 3,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which amendment of Pakistan’s constitution made Islam the state religion?",
+      "options": ["2nd Amendment", "1st Amendment", "8th Amendment", "20th Amendment"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which political theory advocates for class struggle?",
+      "options": ["Capitalism", "Socialism", "Communism", "Liberalism"],
+      "answer": 3,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which country held the first modern democratic elections in 1789?",
+      "options": ["USA", "France", "UK", "India"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the minimum age to become President of the USA?",
+      "options": ["30", "35", "40", "45"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who wrote 'The Prince', a famous political treatise?",
+      "options": ["Karl Marx", "Machiavelli", "Plato", "John Locke"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which political party ruled Pakistan during 1971?",
+      "options": ["PPP", "PML-N", "MQM", "ANP"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the political system of China?",
+      "options": ["Communist", "Democracy", "Monarchy", "Oligarchy"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which term describes a system where a single ruler holds absolute power?",
+      "options": ["Oligarchy", "Democracy", "Monarchy", "Autocracy"],
+      "answer": 4,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which Pakistani leader signed the Simla Agreement with India in 1972?",
+      "options": ["Zulfiqar Ali Bhutto", "Benazir Bhutto", "Muhammad Ali Jinnah", "Ayub Khan"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which country is a federal republic with 50 states?",
+      "options": ["India", "USA", "Germany", "Pakistan"],
+      "answer": 2,
+      "difficulty": "very easy"
+    },
+    {
+      "question": "What is the role of the Prime Minister in Pakistan?",
+      "options": ["Head of State", "Head of Government", "Chief Justice", "President"],
+      "answer": 2,
+      "difficulty": "very easy"
+    },
+    {
+      "question": "Which principle allows separation of powers among branches of government?",
+      "options": ["Checks and balances", "Federalism", "Judicial review", "Democracy"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which ideology emphasizes free markets and private ownership?",
+      "options": ["Socialism", "Capitalism", "Communism", "Fascism"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which political party led the independence movement in India?",
+      "options": ["Indian National Congress", "BJP", "Muslim League", "CPI"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which country was the first to grant women the right to vote?",
+      "options": ["USA", "UK", "New Zealand", "France"],
+      "answer": 3,
+      "difficulty": "tricky"
+    },
+    {
+      "question": "Which political leader introduced the concept of 'Iron Curtain'?",
+      "options": ["Winston Churchill", "Joseph Stalin", "Franklin Roosevelt", "Harry Truman"],
+      "answer": 1,
+      "difficulty": "tricky"
+    },
+    {
+      "question": "What is the main function of the UN General Assembly?",
+      "options": ["Enforce laws", "Make resolutions", "Conduct elections", "Military defense"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which political thinker proposed the 'Social Contract' theory?",
+      "options": ["John Locke", "Karl Marx", "Niccolo Machiavelli", "Thomas Hobbes"],
+      "answer": 4,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which country has the world's oldest continuous democracy?",
+      "options": ["USA", "Switzerland", "Iceland", "UK"],
+      "answer": 4,
+      "difficulty": "tricky"
+    }
+  ]
+}

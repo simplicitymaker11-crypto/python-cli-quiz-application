@@ -1,0 +1,160 @@
+{
+  "questions": [
+    {
+      "question": "What is the basic unit of life?",
+      "options": ["Cell", "Atom", "Molecule", "Organ"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which organelle is known as the powerhouse of the cell?",
+      "options": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which macromolecule is the main source of energy for living organisms?",
+      "options": ["Carbohydrates", "Proteins", "Lipids", "Nucleic acids"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which blood cells fight infections?",
+      "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which process do plants use to make food?",
+      "options": ["Respiration", "Transpiration", "Photosynthesis", "Fermentation"],
+      "answer": 3,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which type of blood vessels carry blood away from the heart?",
+      "options": ["Arteries", "Veins", "Capillaries", "Lymphatics"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the genetic material in most organisms?",
+      "options": ["RNA", "DNA", "Protein", "Carbohydrate"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which organ filters blood and produces urine?",
+      "options": ["Liver", "Kidney", "Lungs", "Heart"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which part of the brain controls balance and coordination?",
+      "options": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which macromolecule stores genetic information?",
+      "options": ["Protein", "DNA", "Carbohydrate", "Lipid"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which enzyme breaks down starch into sugar?",
+      "options": ["Amylase", "Lipase", "Protease", "Cellulase"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "What type of reproduction involves only one parent?",
+      "options": ["Asexual", "Sexual", "Fertilization", "Pollination"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which organ produces insulin?",
+      "options": ["Pancreas", "Liver", "Kidney", "Heart"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which blood component helps in clotting?",
+      "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+      "answer": 3,
+      "difficulty": "easy"
+    },
+    {
+      "question": "What type of macromolecule are enzymes?",
+      "options": ["Lipids", "Carbohydrates", "Proteins", "Nucleic acids"],
+      "answer": 3,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which process converts glucose into energy in cells?",
+      "options": ["Photosynthesis", "Respiration", "Fermentation", "Transpiration"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which gas is released during photosynthesis?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which human system is responsible for transporting oxygen?",
+      "options": ["Digestive", "Circulatory", "Respiratory", "Excretory"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which pigment gives plants their green color?",
+      "options": ["Chlorophyll", "Carotene", "Xanthophyll", "Melanin"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which organ in humans produces bile?",
+      "options": ["Pancreas", "Liver", "Kidney", "Stomach"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which process do cells use to divide for growth and repair?",
+      "options": ["Mitosis", "Meiosis", "Fertilization", "Replication"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which macromolecule forms the main structure of cell membranes?",
+      "options": ["Proteins", "Lipids", "Carbohydrates", "Nucleic acids"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which hormone regulates metabolism?",
+      "options": ["Insulin", "Thyroxine", "Adrenaline", "Cortisol"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which process allows exchange of gases in lungs?",
+      "options": ["Osmosis", "Diffusion", "Filtration", "Active transport"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which type of blood carries oxygen to body tissues?",
+      "options": ["Oxygenated blood", "Deoxygenated blood", "Both", "None"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which type of reproduction involves two parents?",
+      "options": ["Asexual", "Sexual", "Binary fission", "Budding"],
+      "answer": 2,
+      "difficulty": "easy"
+    }
+  ]
+}

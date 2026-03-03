@@ -1,0 +1,148 @@
+{
+  "questions": [
+    {
+      "question": "Who was the first prophet?",
+      "options": ["Prophet Adam (A.S.)", "Prophet Nuh (A.S.)", "Prophet Musa (A.S.)", "Prophet Isa (A.S.)"],
+      "answer": 1,
+      "difficulty": "very easy"
+    },
+    {
+      "question": "Which prophet built the Ark?",
+      "options": ["Prophet Musa (A.S.)", "Prophet Nuh (A.S.)", "Prophet Ibrahim (A.S.)", "Prophet Yusuf (A.S.)"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which Surah is called 'Heart of the Quran'?",
+      "options": ["Al-Fatihah", "Yasin", "Al-Baqarah", "Al-Ikhlas"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which pillar of Islam is about fasting in Ramadan?",
+      "options": ["Shahada", "Salat", "Zakat", "Sawm"],
+      "answer": 4,
+      "difficulty": "very easy"
+    },
+    {
+      "question": "Who was the mother of Prophet Isa (A.S.)?",
+      "options": ["Maryam", "Hajar", "Khadijah", "Amina"],
+      "answer": 1,
+      "difficulty": "very easy"
+    },
+    {
+      "question": "Which prophet was thrown into the fire by his people?",
+      "options": ["Prophet Ibrahim (A.S.)", "Prophet Yusuf (A.S.)", "Prophet Musa (A.S.)", "Prophet Salih (A.S.)"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which city was Prophet Muhammad (PBUH) born in?",
+      "options": ["Medina", "Makkah", "Jerusalem", "Ta’if"],
+      "answer": 2,
+      "difficulty": "very easy"
+    },
+    {
+      "question": "How many Surahs are there in the Quran?",
+      "options": ["114", "110", "120", "100"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which Surah was revealed completely in one night?",
+      "options": ["Al-Fatihah", "Al-Qadr", "Al-Ikhlas", "Al-Kawthar"],
+      "answer": 2,
+      "difficulty": "tricky"
+    },
+    {
+      "question": "Who was known as 'The Trusted One' (Al-Amin)?",
+      "options": ["Prophet Muhammad (PBUH)", "Abu Bakr (R.A.)", "Ali (R.A.)", "Umar (R.A.)"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which prophet’s story is in the Quran about interpreting dreams?",
+      "options": ["Prophet Yusuf (A.S.)", "Prophet Musa (A.S.)", "Prophet Dawud (A.S.)", "Prophet Nuh (A.S.)"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which battle was the first major victory for Muslims in Medina?",
+      "options": ["Battle of Uhud", "Battle of Badr", "Battle of Khandaq", "Battle of Hunayn"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Who was the first caliph after Prophet Muhammad (PBUH)?",
+      "options": ["Umar ibn al-Khattab", "Ali ibn Abi Talib", "Abu Bakr (R.A.)", "Uthman ibn Affan"],
+      "answer": 3,
+      "difficulty": "very easy"
+    },
+    {
+      "question": "Which prophet spoke to the ant according to Islamic tradition?",
+      "options": ["Prophet Sulaiman (A.S.)", "Prophet Dawud (A.S.)", "Prophet Yusuf (A.S.)", "Prophet Isa (A.S.)"],
+      "answer": 1,
+      "difficulty": "tricky"
+    },
+    {
+      "question": "What is the meaning of 'Islam'?",
+      "options": ["Faith", "Submission to Allah", "Prayer", "Charity"],
+      "answer": 2,
+      "difficulty": "very easy"
+    },
+    {
+      "question": "Which prophet’s people were called Thamud?",
+      "options": ["Prophet Salih (A.S.)", "Prophet Hud (A.S.)", "Prophet Shu’aib (A.S.)", "Prophet Nuh (A.S.)"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which Surah contains the verse 'Ayat al-Kursi'?",
+      "options": ["Al-Baqarah", "Al-Imran", "Al-Ma’idah", "Al-Anfal"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Who was swallowed by a whale according to Quranic story?",
+      "options": ["Prophet Musa (A.S.)", "Prophet Yunus (A.S.)", "Prophet Ibrahim (A.S.)", "Prophet Isa (A.S.)"],
+      "answer": 2,
+      "difficulty": "very easy"
+    },
+    {
+      "question": "Which month is the fasting of Ramadan observed?",
+      "options": ["Muharram", "Shawwal", "Ramadan", "Dhul-Hijjah"],
+      "answer": 3,
+      "difficulty": "very easy"
+    },
+    {
+      "question": "Which prophet broke the idols of his people?",
+      "options": ["Prophet Ibrahim (A.S.)", "Prophet Musa (A.S.)", "Prophet Nuh (A.S.)", "Prophet Isa (A.S.)"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Who was the companion known for compiling the Quran in written form?",
+      "options": ["Umar ibn al-Khattab", "Abu Bakr (R.A.)", "Zaid ibn Thabit", "Ali ibn Abi Talib"],
+      "answer": 3,
+      "difficulty": "tricky"
+    },
+    {
+      "question": "Which Surah is the shortest in the Quran?",
+      "options": ["Al-Kawthar", "Al-Fil", "Al-Ikhlas", "Al-Ma’un"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who led Muslims during the Battle of Tabuk?",
+      "options": ["Prophet Muhammad (PBUH)", "Abu Bakr (R.A.)", "Umar ibn al-Khattab", "Khalid ibn al-Walid"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which prophet’s story includes being thrown into a well by his brothers?",
+      "options": ["Prophet Yusuf (A.S.)", "Prophet Musa (A.S.)", "Prophet Isa (A.S.)", "Prophet Dawud (A.S.)"],
+      "answer": 1,
+      "difficulty": "medium"
+    }
+  ]
+}

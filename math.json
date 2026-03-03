@@ -1,0 +1,154 @@
+{
+  "questions": [
+    {
+      "question": "What is 5 + 7?",
+      "options": ["10", "12", "14", "15"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the square root of 144?",
+      "options": ["10", "12", "14", "16"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Solve: 15 X 3",
+      "options": ["45", "40", "35", "50"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is 25 / 5?",
+      "options": ["5", "4", "6", "7"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Solve: 2^3 + 3^2",
+      "options": ["13", "14", "17", "19"],
+      "answer": 3,
+      "difficulty": "medium"
+    },
+    {
+      "question": "If x = 3, find 2x + 5",
+      "options": ["11", "12", "10", "13"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "The sum of angles in a triangle is?",
+      "options": ["180D", "360D", "90D", "270D"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the factorial of 5?",
+      "options": ["120", "60", "24", "100"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the value of Pie (approx)?",
+      "options": ["3.12", "3.14", "3.15", "3.13"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Solve: 7 X 8 - 10",
+      "options": ["48", "46", "50", "52"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Find x: 2x + 3 = 11",
+      "options": ["3", "4", "5", "6"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is 9^2?",
+      "options": ["81", "72", "91", "99"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Simplify: (3 + 2) X 4",
+      "options": ["15", "20", "25", "30"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the perimeter of a square with side 7?",
+      "options": ["28", "21", "14", "35"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "If 5x = 25, then x = ?",
+      "options": ["4", "5", "6", "7"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Convert 0.75 into fraction",
+      "options": ["3/4", "1/2", "2/3", "1/4"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Solve: 15 - 3 X 2",
+      "options": ["9", "12", "6", "10"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is 100 / 4?",
+      "options": ["24", "20", "25", "30"],
+      "answer": 3,
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the area of a rectangle with length 5 and width 3?",
+      "options": ["15", "8", "10", "12"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Simplify: 2^2 X 3^3",
+      "options": ["12", "36", "18", "24"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "If y = 4, find 3y - 5",
+      "options": ["7", "8", "6", "5"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is 50% of 200?",
+      "options": ["50", "75", "100", "150"],
+      "answer": 3,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Solve: 2(3x - 4) = 10",
+      "options": ["2", "3", "4", "5"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Simplify: 5^2 + 2^3",
+      "options": ["25", "33", "36", "32"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the cube of 3?",
+      "options": ["6", "9", "27", "12"],
+      "answer": 3,
+      "difficulty": "easy"
+    }
+  ]
+}

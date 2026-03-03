@@ -1,0 +1,154 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "O2", "CO2", "HO"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the atomic number of Carbon?",
+      "options": ["6", "12", "14", "8"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which gas is produced when acids react with metals?",
+      "options": ["Oxygen", "Hydrogen", "Carbon Dioxide", "Nitrogen"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the chemical formula of table salt?",
+      "options": ["NaCl", "KCl", "CaCl2", "Na2CO3"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which element has the symbol 'Fe'?",
+      "options": ["Fluorine", "Iron", "Francium", "Fermium"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which is a noble gas?",
+      "options": ["Oxygen", "Neon", "Nitrogen", "Hydrogen"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the pH value of pure water?",
+      "options": ["7", "0", "14", "1"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which type of bond involves sharing of electrons?",
+      "options": ["Ionic", "Covalent", "Metallic", "Hydrogen"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the formula of methane?",
+      "options": ["CH4", "C2H6", "C2H4", "CH3OH"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which is the lightest element?",
+      "options": ["Hydrogen", "Helium", "Oxygen", "Carbon"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the main gas in the air we breathe?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which acid is found in vinegar?",
+      "options": ["Acetic acid", "Sulfuric acid", "Nitric acid", "Citric acid"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the molar mass of water (H2O)?",
+      "options": ["16 g/mol", "18 g/mol", "20 g/mol", "22 g/mol"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which element is a halogen?",
+      "options": ["Chlorine", "Oxygen", "Nitrogen", "Helium"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "What type of reaction is combustion?",
+      "options": ["Exothermic", "Endothermic", "Neutralization", "Redox"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which metal is liquid at room temperature?",
+      "options": ["Mercury", "Lead", "Iron", "Copper"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which is the hardest natural substance?",
+      "options": ["Diamond", "Graphite", "Quartz", "Corundum"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the product of neutralization?",
+      "options": ["Salt and water", "Acid and acid", "Base and base", "Salt only"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the chemical symbol of gold?",
+      "options": ["Ag", "Au", "Ga", "Ge"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which gas is commonly known as laughing gas?",
+      "options": ["Nitrous oxide", "Carbon dioxide", "Oxygen", "Nitrogen"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which element is essential for making bones?",
+      "options": ["Calcium", "Potassium", "Iron", "Magnesium"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the chemical formula of ammonia?",
+      "options": ["NH3", "H2O", "CH4", "HCl"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which is a strong oxidizing agent?",
+      "options": ["Potassium permanganate", "Sodium chloride", "Calcium carbonate", "Magnesium oxide"],
+      "answer": 1,
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which gas is used in balloons instead of hydrogen for safety?",
+      "options": ["Helium", "Oxygen", "Nitrogen", "Carbon dioxide"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which element has the highest electronegativity?",
+      "options": ["Fluorine", "Oxygen", "Chlorine", "Nitrogen"],
+      "answer": 1,
+      "difficulty": "hard"
+    }
+  ]
+}

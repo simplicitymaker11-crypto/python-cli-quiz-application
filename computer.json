@@ -1,0 +1,160 @@
+{
+  "questions": [
+    {
+      "question": "What does CPU stand for?",
+      "options": ["Central Processing Unit", "Computer Personal Unit", "Central Programming Unit", "Control Processing Unit"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which device is used to input data into a computer?",
+      "options": ["Monitor", "Keyboard", "Printer", "Speaker"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the brain of the computer?",
+      "options": ["CPU", "RAM", "Hard Disk", "Motherboard"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which memory is volatile?",
+      "options": ["ROM", "RAM", "Hard Disk", "SSD"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which of these is an output device?",
+      "options": ["Mouse", "Keyboard", "Monitor", "Scanner"],
+      "answer": 3,
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does HTML stand for?",
+      "options": ["Hyper Trainer Markup Language", "Hyper Text Markup Language", "High Text Markup Language", "Hyperlink Text Making Language"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which is a programming language?",
+      "options": ["HTML", "CSS", "Python", "Photoshop"],
+      "answer": 3,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which storage device is fastest?",
+      "options": ["HDD", "SSD", "CD-ROM", "Floppy Disk"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which is the primary language of computers?",
+      "options": ["Python", "Binary", "Java", "C#"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "What does RAM stand for?",
+      "options": ["Random Access Memory", "Read Access Memory", "Rapid Action Memory", "Run All Memory"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which of the following is a search engine?",
+      "options": ["Google", "Windows", "Python", "Excel"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which protocol is used for secure web browsing?",
+      "options": ["HTTP", "HTTPS", "FTP", "SMTP"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which device connects a computer to the internet?",
+      "options": ["Router", "Printer", "Monitor", "CPU"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which is a type of non-volatile memory?",
+      "options": ["RAM", "ROM", "Cache", "Registers"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which of the following is open-source software?",
+      "options": ["Windows", "Linux", "MacOS", "Photoshop"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which of these is a database management system?",
+      "options": ["MySQL", "Python", "HTML", "Excel"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which device translates digital signals into analog signals for internet?",
+      "options": ["Modem", "Router", "Switch", "Hub"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which part of computer handles graphics processing?",
+      "options": ["CPU", "GPU", "RAM", "ROM"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which of the following is an operating system?",
+      "options": ["Linux", "Google", "Python", "HTML"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which programming language is primarily used for web styling?",
+      "options": ["HTML", "CSS", "Python", "Java"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which protocol is used to send emails?",
+      "options": ["HTTP", "SMTP", "FTP", "DNS"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which of these is used for version control?",
+      "options": ["Git", "Photoshop", "Windows", "Excel"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which data type stores true or false values?",
+      "options": ["Integer", "Boolean", "String", "Float"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which component stores permanent data?",
+      "options": ["RAM", "ROM", "Cache", "Registers"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which device is used to capture images digitally?",
+      "options": ["Scanner", "Printer", "Keyboard", "Mouse"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which loop is used to iterate a fixed number of times in programming?",
+      "options": ["While loop", "For loop", "Do-while loop", "Switch"],
+      "answer": 2,
+      "difficulty": "medium"
+    }
+  ]
+}

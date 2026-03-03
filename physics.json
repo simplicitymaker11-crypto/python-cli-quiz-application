@@ -1,0 +1,154 @@
+{
+  "questions": [
+    {
+      "question": "What is the SI unit of force?",
+      "options": ["Newton", "Joule", "Pascal", "Watt"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the acceleration due to gravity on Earth?",
+      "options": ["9.8 m/s²", "10 m/s²", "9.8 km/s²", "8.9 m/s²"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who formulated the laws of motion?",
+      "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the speed of light in vacuum?",
+      "options": ["3 x 10^8 m/s", "3 x 10^6 m/s", "3 x 10^5 km/s", "3 x 10^7 m/s"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which law explains why a balloon moves forward when air escapes?",
+      "options": ["Newton’s First Law", "Newton’s Second Law", "Newton’s Third Law", "Law of Conservation of Energy"],
+      "answer": 3,
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the unit of electric current?",
+      "options": ["Volt", "Ampere", "Ohm", "Coulomb"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which phenomenon causes a straw in a glass to appear bent?",
+      "options": ["Reflection", "Refraction", "Diffraction", "Dispersion"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the formula for kinetic energy?",
+      "options": ["1/2 mv²", "mv", "mgh", "F × d"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which particle has a negative charge?",
+      "options": ["Proton", "Neutron", "Electron", "Photon"],
+      "answer": 3,
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the unit of pressure?",
+      "options": ["Pascal", "Newton", "Joule", "Watt"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which branch of physics studies motion without considering its causes?",
+      "options": ["Dynamics", "Kinematics", "Thermodynamics", "Optics"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "What type of lens is thicker at the center than at the edges?",
+      "options": ["Concave", "Convex", "Plano-concave", "Plano-convex"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which phenomenon explains the splitting of light into colors?",
+      "options": ["Diffraction", "Refraction", "Dispersion", "Interference"],
+      "answer": 3,
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the unit of energy?",
+      "options": ["Watt", "Newton", "Joule", "Pascal"],
+      "answer": 3,
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the formula for work done?",
+      "options": ["F × d", "m × a", "m × v²", "P × V"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which law states that voltage = current × resistance?",
+      "options": ["Faraday’s Law", "Ohm’s Law", "Kirchhoff’s Law", "Coulomb’s Law"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which force keeps planets in orbit around the sun?",
+      "options": ["Electromagnetic", "Gravitational", "Nuclear", "Frictional"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which wave requires a medium to propagate?",
+      "options": ["Light wave", "Sound wave", "Radio wave", "X-ray"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which unit is used to measure frequency?",
+      "options": ["Hertz", "Newton", "Volt", "Tesla"],
+      "answer": 1,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which is an example of simple harmonic motion?",
+      "options": ["Pendulum", "Projectile", "Free fall", "Car moving on road"],
+      "answer": 1,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which law explains why rockets move forward when fuel is expelled backward?",
+      "options": ["Newton’s First Law", "Newton’s Second Law", "Newton’s Third Law", "Law of Conservation of Momentum"],
+      "answer": 3,
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the acceleration of a freely falling object near the Earth’s surface?",
+      "options": ["10 m/s²", "9.8 m/s²", "8 m/s²", "12 m/s²"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which type of energy is stored in a stretched spring?",
+      "options": ["Kinetic energy", "Potential energy", "Thermal energy", "Chemical energy"],
+      "answer": 2,
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which type of wave is a sound wave?",
+      "options": ["Transverse", "Longitudinal", "Electromagnetic", "Circular"],
+      "answer": 2,
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which phenomenon allows a prism to separate white light into a spectrum?",
+      "options": ["Reflection", "Refraction", "Dispersion", "Diffraction"],
+      "answer": 3,
+      "difficulty": "medium"
+    }
+  ]
+}
